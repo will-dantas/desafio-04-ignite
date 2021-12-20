@@ -2,7 +2,7 @@
   "foods": [
     {
       "id": 1,
-      "name": "Catupiry",
+      "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "price": "19.90",
       "available": true,
@@ -17,20 +17,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Moda Italiana.",
-      "price": "16.00",
-      "description": "A moda italiana, venha conhecer nossos pratos",
-      "available": true,
-      "id": 3
-    },
-    {
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "name": "Teste",
-      "price": "16.90",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "available": true,
-      "id": 4
+      "id": 3,
+      "name": "A la Camarón",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     }
   ]
 }
